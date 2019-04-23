@@ -1,3 +1,5 @@
 .generators
 *.iml
-Gemfile.lock
+/log
+log*.txt
+/tmp
